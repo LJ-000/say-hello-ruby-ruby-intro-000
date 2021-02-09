@@ -1,3 +1,3 @@
 def say_hello (name, language)
-  puts "Hello, #{name}"
+  say_hello ("Kent Black")
 end
