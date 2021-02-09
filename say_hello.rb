@@ -11,5 +11,4 @@ def say_hello (name, language)
       expect($stdout).to receive(:puts).with("Hello Ruby Programmer!")
       say_hello()
     end
-  end
-  
+end
