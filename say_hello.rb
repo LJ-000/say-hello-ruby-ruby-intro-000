@@ -1,4 +1,4 @@
-def say_hello (name, language)
+def say_hello (name, language = "Ruby")
   puts "Hello {Kent Black}"
   say_hello ("Kent Black")
 end
