@@ -1,5 +1,5 @@
 def say_hello (name, language)
-  puts "Hello Kent Black"
+  puts "Hello {Kent Black}"
   say_hello ("Kent Black")
 end
 
