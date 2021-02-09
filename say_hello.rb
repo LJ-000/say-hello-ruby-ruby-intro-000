@@ -7,4 +7,3 @@ puts "Hello Ruby programmer"
 say_hello ()
 
 end
-end
